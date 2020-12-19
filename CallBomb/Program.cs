@@ -13,9 +13,9 @@ namespace CallBomb
     class Program
     {
         // Vars
-        public static string accountSid = "AC7fffb946c66c7fe5ad83f49e34feebe1";
-        public static string authToken = "f5aa944daae4664b824baa4adc61e5ba";
-        public static List<string> phoneNumbers = new List<string>( new string[] { "+19285997423" });
+        public static string accountSid = "**********";
+        public static string authToken = "***********";
+        public static List<string> phoneNumbers = new List<string>( new string[] { "***********" });
         
         public static string targetNum = "";
                           
